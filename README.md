@@ -1,7 +1,7 @@
 # t-SNE Synthetic Neural Data and EEG Data Analysis
 
 ## Overview
-This project explores the use of t-SNE (t-Distributed Stochastic Neighbor Embedding) to analyze and visualize synthetic neural data and EEG recordings. It focuses on:
+This project explores the use of t-SNE (t-Distributed Stochastic Neighbor Embedding) to analyze and visualize synthetic neural data and actual EEG recordings. It focuses on:
 
 1. **Synthetic Neural Data Analysis**:
    - Generating synthetic neural activity data.
